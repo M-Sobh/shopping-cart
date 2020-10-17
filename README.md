@@ -1,1 +1,1 @@
-# create shopping cart react
+# creating shopping cart with react
